@@ -1,39 +1,72 @@
-# Sua Amiga Dev
+<div align="center">
 
-> Low-level, sistemas e engenharia de software explicados com clareza, estética e zero ego.
+# ✦ Sua Amiga Dev
 
-Bem-vinda à **Sua Amiga Dev** — um espaço para garotas que querem entender o que acontece por baixo dos panos da computação e programar além do básico.
+### Low-level, sistemas e código que chega perto do metal — com clareza, beleza e zero ego.
 
-Aqui falamos sobre:
+<a href="https://www.youtube.com/@suaamigadev">YouTube</a> ·
+<a href="https://www.instagram.com/suaamigadev/">Instagram</a> ·
+<a href="https://www.tiktok.com/@suaamigadev">TikTok</a> ·
+<a href="https://github.com/suaamigadev">GitHub</a>
 
-- C, Rust e fundamentos de programação;
-- ponteiros, memória, compiladores e binários;
-- arquitetura de computadores e sistemas operacionais;
-- debugging, terminal, Linux e código que chega perto do metal;
-- projetos práticos e bastidores reais de aprendizagem.
+</div>
 
-## O canal
+<br>
 
-O YouTube é a nossa mesa de trabalho: vídeos mais completos, práticos e didáticos para investigar um conceito ou construir algo do começo ao fim.
+> **Um espaço feito para garotas que querem entender a computação de verdade — sem precisar deixar a própria personalidade na porta.**
 
-Nas outras redes, compartilho bastidores, rotina de estudos, preparação dos vídeos e explicações rápidas.
+## Oi, amiga ♡
 
-## Comece por aqui
+A **Sua Amiga Dev** nasceu para tornar os assuntos mais profundos da tecnologia mais próximos, visuais e humanos.
 
-- [YouTube](https://www.youtube.com/@suaamigadev)
-- [Instagram](https://www.instagram.com/suaamigadev/)
-- [TikTok](https://www.tiktok.com/@suaamigadev)
-- [Threads](https://www.threads.net/@suaamigadev)
-- [X](https://x.com/suaamigadev)
+Aqui, ponteiros não são um teste de coragem. Segmentation fault não é motivo para desistir. E falar de memória, compiladores, arquitetura e sistemas operacionais pode ser tão interessante quanto abrir uma nova aba para descobrir mais uma coisa.
 
-## Código dos vídeos
+Este é um lugar para aprender com rigor, perguntar sem medo e construir uma carreira técnica sem performar o estereótipo de “gênio inalcançável”.
 
-Os exemplos, experimentos e projetos usados nos vídeos ficam organizados nesta organização. Cada repositório deve conter instruções para executar o código, requisitos e o link do vídeo relacionado quando ele estiver publicado.
+## O que a gente explora
 
-## Comunidade
+| Tema | O que você vai encontrar |
+| --- | --- |
+| **C & Rust** | Fundamentos, ownership, ponteiros e código eficiente |
+| **Memória** | Stack, heap, alocação, endereços e memória virtual |
+| **Sistemas** | Processos, threads, syscalls, Linux e debugging |
+| **Arquitetura** | CPU, registradores, assembly, binários e compilação |
+| **Engenharia** | Projetos práticos, ferramentas e decisões reais de código |
 
-Este é um espaço acolhedor para aprender. Perguntas são bem-vindas; arrogância, preconceito e assédio não.
+## Conteúdo para acompanhar
 
-Se você encontrou um erro em algum exemplo, abra uma issue com os passos para reproduzi-lo. Aprender sistemas também é aprender a investigar, testar e corrigir.
+### No YouTube — mergulhos mais profundos
 
-— Feito por uma dev para outras devs. 💻✨
+Vídeos completos para estudar um conceito, investigar um bug ou construir um projeto passo a passo.
+
+### Nas redes — o dia a dia da dev
+
+Bastidores, rotina de estudos, preparação dos vídeos, setup, erros de gravação e explicações rápidas para levar no bolso.
+
+## Comece por um destes caminhos
+
+- **Está começando em low-level?** → [Stack vs Heap: a analogia que faltava](https://www.youtube.com/@suaamigadev)
+- **Quer entender os erros?** → [Perdendo o medo de segmentation fault](https://www.youtube.com/@suaamigadev)
+- **Já programa e quer ir mais fundo?** → [Código, compilador e máquina](https://www.youtube.com/@suaamigadev)
+
+_Os links serão atualizados conforme os vídeos forem publicados._
+
+## Código aberto, aprendizado compartilhado
+
+Os exemplos e projetos dos vídeos vivem nesta organização. Cada repositório deve ser uma extensão do conteúdo: com README claro, instruções para executar, contexto do experimento e o link do vídeo relacionado.
+
+Encontrou um erro ou tem uma ideia de melhoria? Abra uma issue. Investigar, testar e corrigir também faz parte de aprender engenharia de software.
+
+## Nossa comunidade
+
+Este é um espaço para garotas curiosas, ambiciosas e apaixonadas por tecnologia — de quem está escrevendo o primeiro `main` a quem já está lendo assembly no café da manhã.
+
+Perguntas são bem-vindas. Preconceito, assédio e arrogância não.
+
+<div align="center">
+
+### Puxa uma cadeira. Vamos entender o que acontece por baixo dos panos. ♡
+
+**[Inscreva-se no YouTube →](https://www.youtube.com/@suaamigadev)**
+
+</div>
